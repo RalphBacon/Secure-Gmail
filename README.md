@@ -1,5 +1,5 @@
 # Secure Gmail
-#### Send Gmail securely (encrypted) from your Arduino, ESP8266 or other microcontroller
+#### Send Gmail securely (encrypted) from your Arduino, ESP8266(library 2.4.2) or other microcontroller
 
 ## See https://www.youTube.com/ralphbacon video #140
 ####(Direct link to video: https://youtu.be/s913_7JXq4w)
